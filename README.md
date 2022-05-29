@@ -1,4 +1,7 @@
-### Hi there 👋
+### ✨ Angela Huang ✨
+
+An asipring web developer.
+
 
 <!--
 **Ange1a-Huang/Ange1a-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
